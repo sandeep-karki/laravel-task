@@ -79,8 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel<br>
-                    <p style="color: red">Type <b>test</b> on url</p>
+                    Laravel <br>   
+                    <p style="color: red"> type test on url</p>
                 </div>
 
                 <div class="links">
@@ -90,9 +90,6 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-                <p style="color: red"><b>"In this task, provided information from a register form will be stored on contact_data.csv file <br>located inside public folder and <br> often on submittion registered info will be listed on listing page "</b></p>
-                <p style="color: green"> <b> "yah ! i know task is quit simple but for starter it means a lot" </b></p>
-                <b style="color: green"><b>Do visit my next work <br> Thank You</b></b>
             </div>
         </div>
     </body>
